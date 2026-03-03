@@ -1,8 +1,6 @@
 # 文档下方有很多可直接导入使用的高速节点/二维码订阅
 
-<p align='center'><strong>2025-04-06 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpn.tg10000.com">vpn.tg10000.com</a></strong></p>
-<p align='center'><strong>每日免费节点Telegram群:<a href="https://t.me/meirijiedian">@meirijiedian</a></strong></p>
-
+<p align='center'><strong>2026-03-01 12点准时更新每日免费节点，更多机场VPN优惠信息：<a href="https://vpnnav.github.io">vpnnav.github.io</a></strong></p>
 
 | 平台                | 软件                                                         | 支持协议                                                     |
 | :------------------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
